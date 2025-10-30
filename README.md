@@ -58,13 +58,11 @@ Using the **event study methodology**, I analyzed market reactions in **India (N
 
 ##  Visual Results
 
-**Average Abnormal Return (AAR)**
-![AAR Plot](results/aar_plot.png)
+**Average Abnormal Return (AAR)**  
+![AAR Plot](https://github.com/partth123/Event-Study-Monetary-Policy/blob/main/results/aar_plot.png?raw=true)
 
-**Cumulative Average Abnormal Return (ACAR)**
-![ACAR Plot](results/acar_plot.png)
-
----
+**Cumulative Average Abnormal Return (ACAR)**  
+![ACAR Plot](https://github.com/partth123/Event-Study-Monetary-Policy/blob/main/results/acar_plot.png?raw=true)
 
 ##  Key Insights
 
