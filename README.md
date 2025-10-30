@@ -56,7 +56,7 @@ Using the **event study methodology**, I analyzed market reactions in **India (N
 
 ---
 
-## 📊 Visual Results
+##  Visual Results
 
 **Average Abnormal Return (AAR)**
 ![AAR Plot](results/aar_plot.png)
@@ -66,7 +66,7 @@ Using the **event study methodology**, I analyzed market reactions in **India (N
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Nifty50** displayed **larger short-term fluctuations** around RBI announcement dates, showing more reactive price movements.  
 - **S&P 500** demonstrated **smaller and quicker corrections**, consistent with higher market efficiency.  
@@ -75,7 +75,7 @@ Using the **event study methodology**, I analyzed market reactions in **India (N
 
 ---
 
-## 📈 Example Output
+##  Example Output
 
 ```text
 === Significance Test (CAR [-1,+1]) ===
